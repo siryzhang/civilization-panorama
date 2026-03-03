@@ -2,7 +2,7 @@
 
 > 以马克思政治经济学为分析框架，横跨农业、工业、信息、AI 四个时代，系统梳理人类文明演化的底层逻辑。
 >
->🔗点击访问： https://siryzhang.github.io/civilization-panorama/
+>🔗： https://siryzhang.github.io/civilization-panorama/
 
 
 ---
