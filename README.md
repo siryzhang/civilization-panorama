@@ -1,6 +1,8 @@
 # 文明发展全景图 · Civilization Panorama
 
 > 以马克思政治经济学为分析框架，横跨农业、工业、信息、AI 四个时代，系统梳理人类文明演化的底层逻辑。
+>
+> https://siryzhang.github.io/civilization-panorama/
 
 
 ---
@@ -54,12 +56,6 @@
 **③ AI 时代能力演化与构建**
 - Part 1：9 个代表性科技岗位的演化路径（AI替代内容 / 人类剩余价值 / 进化后角色）
 - Part 2：面向组织设计者与 HR 从业者的四步行动框架
-
----
-
-## 使用方式
-
-点击链接访问：https://siryzhang.github.io/civilization-panorama/
 
 ---
 
