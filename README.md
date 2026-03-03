@@ -2,7 +2,6 @@
 
 > 以马克思政治经济学为分析框架，横跨农业、工业、信息、AI 四个时代，系统梳理人类文明演化的底层逻辑。
 
-**[→ 在线查看](./civilization-panorama.html)**
 
 ---
 
@@ -60,25 +59,7 @@
 
 ## 使用方式
 
-单文件设计，无需任何构建工具或依赖安装。
-
-```bash
-# 克隆仓库
-git clone https://github.com/YOUR_USERNAME/civilization-panorama.git
-
-# 直接用浏览器打开
-open civilization-panorama.html
-```
-
-或直接通过 GitHub Pages 部署后在线访问（见下文）。
-
----
-
-## 部署到 GitHub Pages
-
-1. 进入仓库 **Settings → Pages**
-2. Source 选择 `main` 分支，目录选择 `/ (root)`
-3. 保存后访问 `https://YOUR_USERNAME.github.io/civilization-panorama/`
+点击链接访问：https://siryzhang.github.io/civilization-panorama/
 
 ---
 
