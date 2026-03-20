@@ -13,7 +13,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![License: MIT](https://img.shields.io/badge/License-MIT-C9A84C?style=flat-square)](LICENSE)
 
-[🔗 在线预览 Live Demo](https://your-username.github.io/civilization-panorama) · [📖 阅读说明](#项目概述) · [🚀 快速开始](#快速开始)
+[🔗 在线预览 Live Demo](https://siryzhang.github.io/civilization-panorama/) · [📖 阅读说明](#项目概述) 
 
 </div>
 
@@ -44,21 +44,6 @@
 - 🔮 **六项未来预测** — 基于规律推演的 AI 时代走向，标注确定性等级与关键不确定性
 - 🧠 **组织第一性原理** — 从"礼制人事官"到"组织智能官"，追溯人的管理职能的完整进化链
 - ⚖️ **价值分配公式** — 每个时代的财富分配结构，揭示技术革命中谁获益、谁被替代
-
-## 快速开始
-
-```bash
-# 克隆仓库
-git clone https://github.com/your-username/civilization-panorama.git
-
-# 进入目录
-cd civilization-panorama
-
-# 直接打开（零依赖，纯静态页面）
-open index.html
-```
-
-或部署到 GitHub Pages — 在仓库 Settings → Pages 中选择 `main` 分支即可。
 
 ## 交互特性
 
@@ -94,11 +79,6 @@ civilization-panorama/
 - 💡 战略规划讨论中的结构化思考框架
 - 🧩 个人知识体系中"文明演化"模块的系统性梳理
 
-## License
-
-[MIT](LICENSE) © 2025
-
----
 
 <div align="center">
 
