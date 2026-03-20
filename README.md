@@ -63,15 +63,6 @@
 - **Vanilla JS** — Intersection Observer API / Scroll Events
 - **Google Fonts** — Noto Serif SC + Noto Sans SC + Instrument Serif + DM Sans
 
-## 项目结构
-
-```
-civilization-panorama/
-├── index.html      # 完整应用（单文件，零依赖）
-├── preview.png     # 项目预览图
-└── README.md
-```
-
 ## 适用场景
 
 - 📚 组织管理 / 人力资源领域的教学与研究参考
